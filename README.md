@@ -6,14 +6,14 @@
 
 ## Term 1
 ### Etch-A-Sketch
-Graphics project with keypress functionality, drawing controls with the ability to save images
+A simple graphics project with keypress functionality, drawing controls, and the ability to save the current project
 ![]()
 []()
 
 ## Term 2
 ### Calculator
 
-A functioning calculator that can perform the four basic operators, with some additional functions including squaring, a random number generator, the pi constant, and a double 0.
+An object oriented graphical calculator with four custom buttons and a GUI
 
 ![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/Calc.png?raw=true)
 
