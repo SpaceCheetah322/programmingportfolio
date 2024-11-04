@@ -22,4 +22,4 @@ An object oriented graphical calculator with four custom buttons and a GUI
 ## Contact Info
 9632174@graniteschools.org
 
-Note: This is part of an orginization, so people not in the orginization will not be able to send messages
+Note: This is part of an organization, so people not in the organization will not be able to send messages
