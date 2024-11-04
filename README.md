@@ -13,7 +13,7 @@ Graphics project with keypress functionality, drawing controls with the ability 
 ## Term 2
 ### Calculator
 
-Description
+A functioning calculator that can perform the four basic operators, with some additional functions included.
 
 ![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/Calc.png?raw=true)
 
