@@ -20,4 +20,5 @@ An object oriented graphical calculator with four custom buttons and a GUI
 [Source Code](https://github.com/SpaceCheetah322/programmingportfolio/tree/main/src/term2/Calculator)
 
 ## Contact Info
-pp
+9632174@graniteschools.org
+Note: This is part of an orginization, so people not in the orginization will not be able to send messages
