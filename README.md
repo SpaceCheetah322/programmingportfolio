@@ -18,3 +18,6 @@ An object oriented graphical calculator with four custom buttons and a GUI
 ![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/Calc.png?raw=true)
 
 [Source Code](https://github.com/SpaceCheetah322/programmingportfolio/tree/main/src/term2/Calculator)
+
+## Contact Info
+pp
