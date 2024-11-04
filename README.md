@@ -9,6 +9,7 @@
 A simple graphics project with keypress functionality, drawing controls, and the ability to save the current project
 
 ![Running Etch-A-Sketch](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/Etch.png?raw=true)
+
 [Source Code](https://github.com/SpaceCheetah322/programmingportfolio/tree/main/src/term1/EtchASketch)
 
 ## Term 2
