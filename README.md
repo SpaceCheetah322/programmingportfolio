@@ -13,7 +13,7 @@ Graphics project with keypress functionality, drawing controls with the ability 
 ## Term 2
 ### Calculator
 
-A functioning calculator that can perform the four basic operators, with some additional functions included.
+A functioning calculator that can perform the four basic operators, with some additional functions including squaring, a random number generator, the pi constant, and a double 0.
 
 ![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/Calc.png?raw=true)
 
