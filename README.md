@@ -15,8 +15,8 @@ A simple graphics project with keypress functionality, drawing controls, and the
 ### Grading App
 A small graphics app to help teachers grade projects easily
 
-![Running App]()
-[Source Code]()
+![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/Grade.png?raw=true)
+[Source Code](https://github.com/SpaceCheetah322/programmingportfolio/tree/main/src/term1/GradingApp)
 
 ## Term 2
 ### Calculator
