@@ -5,5 +5,9 @@
 * 4.0 GPA
 
 ## Term 1
+### Etch-A-Sketch
+Graphics project with keypress functionality, drawing controls with the ability to save images
+![]()
+[]()
 
 ## Term 2
