@@ -34,7 +34,7 @@ OOP for a simple collision based top down space game
 
 ![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/SpaceGame.png)
 
-[Source Code](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/SpaceGame.png)
+[Source Code](https://github.com/SpaceCheetah322/programmingportfolio/tree/main/src/term2/Spacegame)
 
 ## Contact Info
 9632174@graniteschools.org
