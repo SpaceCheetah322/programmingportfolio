@@ -32,7 +32,7 @@ An object oriented graphical calculator with four custom buttons and a GUI
 
 OOP for a simple collision based top down space game
 
-![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/Spacegame.png)
+![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/SpaceGame.png)
 
 [Source Code](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/SpaceGame.png)
 
