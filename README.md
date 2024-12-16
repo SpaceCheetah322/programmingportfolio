@@ -25,9 +25,9 @@ A small graphics app to help teachers grade projects easily
 ### Temperature Comverter
 A small but useful app that converts fahrenheit to celsius
 
-![Running App]()
+![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/TempConv.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/SpaceCheetah322/programmingportfolio/tree/main/src/term1/GradingApp)
 
 ## Term 2
 ### Calculator
