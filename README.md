@@ -1,8 +1,17 @@
-# Kai Hale's Programming Portfolio 2024-25
+#Programming Portfolio 2024-25
 * Projected graduation 2026
 * Typing at 90 wpm
 * Proficient in Photoshop and Illustrator
 * 4.0 GPA
+
+## Contact Info
+alt9632174@gmail.com
+
+##Certifications
+### Computer Programming
+### Digital Media
+### Screen Printing
+### Food & Nutrition
 
 ## Term 1
 ### Etch-A-Sketch
@@ -35,11 +44,6 @@ OOP for a simple collision based top down space game
 ![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/SpaceGame.png)
 
 [Source Code](https://github.com/SpaceCheetah322/programmingportfolio/tree/main/src/term2/Spacegame)
-
-## Contact Info
-9632174@graniteschools.org
-
-Note: This is part of an organization, so people outside the organization will not be able to send messages
 
 ## Certifications
 ### Computer Graphics
