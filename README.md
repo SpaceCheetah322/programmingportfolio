@@ -7,7 +7,7 @@
 ## Contact Info
 alt9632174@gmail.com
 
-##Certifications
+## Certifications
 ### Computer Programming
 ### Digital Media
 ### Screen Printing
