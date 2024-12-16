@@ -7,11 +7,6 @@
 ## Contact Info
 alt9632174@gmail.com
 
-## Certifications
-### Computer Programming
-### Digital Media
-### Screen Printing
-
 ## Term 1
 ### Etch-A-Sketch
 A simple graphics project with keypress functionality, drawing controls, and the ability to save the current project
@@ -45,7 +40,8 @@ OOP for a simple collision based top down space game
 [Source Code](https://github.com/SpaceCheetah322/programmingportfolio/tree/main/src/term2/Spacegame)
 
 ## Certifications
-### Computer Graphics
-Screen Printing Proficieny
+### Computer Programming
 
-Digital Media Proficieny
+### Digital Media
+
+### Screen Printing
