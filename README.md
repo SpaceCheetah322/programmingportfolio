@@ -11,7 +11,6 @@ alt9632174@gmail.com
 ### Computer Programming
 ### Digital Media
 ### Screen Printing
-### Food & Nutrition
 
 ## Term 1
 ### Etch-A-Sketch
