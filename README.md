@@ -5,7 +5,7 @@
 * 4.0 GPA
 
 ## Contact Info
-[Email Someone](mailto:someone@example.com)
+[Email me](mailto:alt9632174@gmail.com)
 
 ## Term 1
 ### Etch-A-Sketch
