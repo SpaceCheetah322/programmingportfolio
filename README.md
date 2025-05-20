@@ -62,7 +62,7 @@ An OOP inspired by Frogger, with added powerups that give the player special adv
 
 ![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/Gameplay.PNG?raw=true)
 
-[Source Code](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/src/term4/README.md)
+[Source Code](https://github.com/SpaceCheetah322/PowerHop)
 
 ## Certifications
 ### Computer Programming
