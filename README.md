@@ -47,13 +47,22 @@ OOP for a simple collision based top down space game
 [Source Code](https://github.com/SpaceCheetah322/programmingportfolio/tree/main/src/term2/Spacegame)
 
 ## Term 3
-### ShapTester
+### ShapeTester
 
 A simple program used to calculate the volume and surface area of 3d shapes
 
 ![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/ShapeTester)
 
 [Source Code](https://github.com/SpaceCheetah322/programmingportfolio/tree/main/src/term%203/ShapeTester)
+
+## Term 4
+### PowerHop
+
+An OOP inspired by Frogger, with added powerups that give the player special advantages.
+
+![Running App](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/images/Gameplay.PNG?raw=true)
+
+[Source Code](https://github.com/SpaceCheetah322/programmingportfolio/blob/main/src/term4/README.md)
 
 ## Certifications
 ### Computer Programming
